@@ -1,3 +1,2 @@
 # devOpsGit
-
-# First Git File
+First Git File
